@@ -49,7 +49,7 @@ INSTALLED_APPS = [
 
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8800",
+    "http://localhost:8080",
 ]
 
 
